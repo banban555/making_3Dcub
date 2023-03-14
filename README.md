@@ -3,7 +3,7 @@
 #### 레이캐스팅
 - 가상의 공간에 빛을 투사해 빛에 닿는 표면의 위치를 파악하는 기술입니다. 2차원 맵을 3차원의 원근감이 있는 공간으로 보이게 하는 데에 사용됩니다. 
 - 레이캐스팅을 활용한 가장 대표적인 게임은 Wolfenstein입니다.
-![울펜슈타인](https://user-images.githubusercontent.com/124651984/224881330-a4d5be32-205b-4071-a845-5a5f2b1b0337.png)
+![울펜슈타인]<img src="https://user-images.githubusercontent.com/124651984/224881330-a4d5be32-205b-4071-a845-5a5f2b1b0337.png", width=300>
 
 
 # 실행방법
