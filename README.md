@@ -3,13 +3,14 @@
 #### 레이캐스팅
 - 가상의 공간에 빛을 투사해 빛에 닿는 표면의 위치를 파악하는 기술입니다. 2차원 맵을 3차원의 원근감이 있는 공간으로 보이게 하는 데에 사용됩니다. 
 - 레이캐스팅을 활용한 가장 대표적인 게임은 Wolfenstein입니다.
-![](https://namu.wiki/jump/AMqJNOZwiPPlpmXgWIgjZGmA29S0oyIqQCKGwM9Yn1qIytpK95nl8G3LhBqzb4FVb%2BZm5F2cAVzNU6iXZqKkPQ%3D%3D)
+<img src="https://namu.wiki/jump/AMqJNOZwiPPlpmXgWIgjZGmA29S0oyIqQCKGwM9Yn1qIytpK95nl8G3LhBqzb4FVb%2BZm5F2cAVzNU6iXZqKkPQ%3D%3D">
 <br>
 
 # 실행방법
-- git clone https://github.com/banban555/making_3Dcub.git
-- make
-- cub3D map.cub
+터미널에 아래 순서로 명령어를 입력해주세요.
+- git clone `https://github.com/banban555/making_3Dcub.git`
+- `make`
+- `cub3D map.cub`
 <br>
 
 # 동작
